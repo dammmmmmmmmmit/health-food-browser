@@ -31,30 +31,7 @@ This project consists of **two parts**:
   - Hover animations  
   - Smooth and aesthetic design  
 
----
 
-## 🗂 Folder Structure  
-
-project/
-├── health-food-api/
-│ ├── server.js
-│ ├── package.json
-│ └── src/
-│ ├── data.js
-│ ├── controllers/
-│ └── routes/
-│
-└── health-food-client/
-├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── package.json
-├── index.html
-└── tailwind.config.cjs
-
-
----
 
 ## 🛠️ How to Run the Project
 
